@@ -1,4 +1,4 @@
-### Hi 👋 I'm Hakima, software engineering student 
+### Hi 👋 I'm Hakima, a software engineering student 
 
 <!--
 **hamaarouf/hamaarouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
